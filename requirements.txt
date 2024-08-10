@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+pdf2image
+numpy
+webvtt-py
+requests
+Pillow
+python-docx
